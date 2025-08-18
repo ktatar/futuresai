@@ -5,7 +5,7 @@ permalink: /people/
 description: 
 nav: true
 nav_order: 5
-display_categories: [Current, Alumni]
+display_categories: [Leadership]
 horizontal: true
 ---
 
