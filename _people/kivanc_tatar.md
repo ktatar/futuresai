@@ -1,11 +1,11 @@
 ---
 layout: distill
 title: Kıvanç Tatar
-description: Assistant Professor, Group Leader
+description: Assistant Professor
 img: assets/img/people/prof_pic_kivanc_tatar.jpg
 importance: 
-category: Current
-date: 2021-10-01
+category: Cluster Leadership
+date: 2025-09-01
 featured: true
 
 ---
