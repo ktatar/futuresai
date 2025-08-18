@@ -1,0 +1,8 @@
+---
+layout: post
+inline: true
+date: 2025-08-15
+related_posts: false
+---
+
+We kickstarted the WASP-HS cluster AI Futures of Culture and Memory together with Anna Foka, Coppelie Cocq, Andre Holzapfel, Karolja Golub, and Kıvanç Tatar.
