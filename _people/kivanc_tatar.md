@@ -5,7 +5,7 @@ description: Assistant Professor
 img: assets/img/people/prof_pic_kivanc_tatar.jpg
 importance: 
 category: Leadership
-date: 2025-09-01
+date: 2025-08-01
 featured: true
 
 ---
