@@ -3,7 +3,7 @@ layout: distill
 title: Andre Holzapfel
 description: Associate Professor
 img: assets/img/people/prof_pic_andre_holzapfel.jpg
-importance: 
+importance: 3
 category: Leadership
 date: 2025-08-01
 featured: true
@@ -13,7 +13,6 @@ featured: true
 <div class="fake-img l-body">
 {% include figure.liquid loading="eager" path="assets/img/people/prof_pic_andre_holzapfel.jpg" title="Andre Holzapfel" %}
 </div>
-
 
 ## Bio
 

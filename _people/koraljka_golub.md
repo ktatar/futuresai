@@ -3,7 +3,7 @@ layout: distill
 title: Koraljka Golub
 description: Professor
 img: assets/img/people/prof_pic_koraljka_golub.jpg
-importance: 
+importance: 2
 category: Leadership
 date: 2025-08-01
 featured: true
