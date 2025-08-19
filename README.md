@@ -1,6 +1,6 @@
 # Readme
 
-The repo for the website <https://aicomparts.com>. The repo is forked from <https://alshedivat.github.io/al-folio/>. 
+The repo for the website <https://futuresai.net>. The repo is forked from <https://alshedivat.github.io/al-folio/>. 
 
 
 ## License
@@ -12,3 +12,4 @@ Originally, **al-folio** was based on the [\*folio theme](https://github.com/bog
 ## Acknowledgements
 
 Much thanks to Xuechen (Hugh) Liu for setting up this website framework.
+
