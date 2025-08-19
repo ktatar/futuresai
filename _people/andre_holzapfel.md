@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: Kıvanç Tatar
+title: Andre Holzapfel
 description: Associate Professor
 img: assets/img/people/prof_pic_andre_holzapfel.jpg
 importance: 
