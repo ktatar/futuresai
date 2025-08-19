@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Kıvanç Tatar
-description: Assistant Professor
+description: Associate Professor
 img: assets/img/people/prof_pic_andre_holzapfel.jpg
 importance: 
 category: Leadership
@@ -11,7 +11,7 @@ featured: true
 ---
 
 <div class="fake-img l-body">
-{% include figure.liquid loading="eager" path="assets/img/people/prof_pic_andre_holzapfel.jpg" title="Kıvanç Tatar" %}
+{% include figure.liquid loading="eager" path="assets/img/people/prof_pic_andre_holzapfel.jpg" title="Andre Holzapfel" %}
 </div>
 
 
