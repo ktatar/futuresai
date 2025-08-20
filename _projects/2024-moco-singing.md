@@ -2,7 +2,7 @@
 layout: distill
 title: Singing for the Missing
 description: A position paper for bringing Body back to AI Voice and Speech Technologies at MOCO 24
-category: AI and Society
+category: AI in Music and Sound
 related_publications: true
 date: 2024-05-30
 featured: true
