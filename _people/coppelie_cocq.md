@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: Coppelie Cocq
+title: Coppélie Cocq
 description: Professor
 img: assets/img/people/prof_pic_coppelie_cocq.jpg
 importance: 5
@@ -11,7 +11,7 @@ featured: true
 ---
 
 <div class="fake-img l-body">
-{% include figure.liquid loading="eager" path="assets/img/people/prof_pic_coppelie_cocq.jpg" title="Coppelie Cocq" %}
+{% include figure.liquid loading="eager" path="assets/img/people/prof_pic_coppelie_cocq.jpg" title="Coppélie Cocq" %}
 </div>
 
 ## Bio
