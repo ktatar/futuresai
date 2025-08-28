@@ -22,5 +22,5 @@ Synthetic Pasts examines the roles that history and historicity play in AI-gener
 # Related publications
 
 <div class="publications">
-    {% bibliography --file page.bibliography%}
+    {% bibliography --file page.bibliography %}
 </div>
