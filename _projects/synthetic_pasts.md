@@ -18,3 +18,5 @@ Synthetic Pasts examines the roles that history and historicity play in AI-gener
 
 **Project Page**
 <https://maw.wallenberg.org/en/project/study-historical-material-generative-artificial-intelligence>
+
+{% bibliography %}
