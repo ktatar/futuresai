@@ -1,14 +1,11 @@
 ---
-layout: distill
+layout: page
 title: "Quantifying Culture: A Study of AI and Cultural Heritage Collections"
 description: the conceptual and practical interface between artificial intelligence and core archival imperatives
 category: Culture and Heritage
 related_publications: true
 date: 2021-01-01
 featured: true
-
-bibliography: quantifying.bib
-toc: false
 
 ---
 
@@ -18,3 +15,8 @@ Quantifying Culture investigates the potential of AI to enrich the management an
 
 # Project Page
 <https://wasp-hs.org/project/quantifying-culture-a-study-of-ai-and-cultural-heritage-collections/>
+
+
+<div class="publications">
+{% bibliography --file s quantifying.bib %}
+</div>

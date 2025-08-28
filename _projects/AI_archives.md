@@ -1,14 +1,11 @@
 ---
-layout: distill
+layout: page
 title: "AI, Authenticity, and Archives"
 description: AI to enrich the management and interpretation of cultural heritage collections across Sweden
 category: Culture and Heritage
 related_publications: true
 date: 2023-01-01
 featured: true
-
-bibliography: quantifying.bib
-toc: false
 
 ---
 
@@ -18,3 +15,7 @@ This project addresses the conceptual and practical interface between artificial
 
 # Project Page
 <https://www.uu.se/en/department/alm/research/research-projects/ongoing-projects/artificial-intelligence-as-a-risk-and-opportunity-for-the-authenticity-of-archives>
+
+<div class="publications">
+{% bibliography --file s quantifying.bib %}
+</div>
