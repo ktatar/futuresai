@@ -26,7 +26,7 @@ What kind of changes will AI technology bring to music, arts, and new media?
 
 <https://arxiv.org/pdf/2306.10054>
 
-**Original publication: **
+**Original publication:**
 
 <https://doi.org/10.1162/leon_a_02523>
 
