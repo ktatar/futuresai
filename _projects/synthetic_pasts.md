@@ -7,6 +7,8 @@ related_publications: true
 date: 2025-08-15
 featured: true
 
+authors:
+
 bibliography: syntheticpasts.bib
 toc: false
 
