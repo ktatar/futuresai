@@ -22,11 +22,13 @@ any content on the Web. With AI models shared openly and used by many globally,
 how does this new paradigm shift challenge the status quo in artistic practices?
 What kind of changes will AI technology bring to music, arts, and new media?
 
-Open access paper: <https://arxiv.org/pdf/2306.10054>
-Original publication: <https://doi.org/10.1162/leon_a_02523>
+**Open access paper:** 
 
-**Open access PDF**
-<embed src="https://arxiv.org/pdf/2306.10054" width="525px" height="675px" />
+<https://arxiv.org/pdf/2306.10054>
+
+**Original publication: **
+
+<https://doi.org/10.1162/leon_a_02523>
 
 ## Acknowledgements
 
