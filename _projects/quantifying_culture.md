@@ -4,7 +4,7 @@ title: "Quantifying Culture: A Study of AI and Cultural Heritage Collections"
 description: the conceptual and practical interface between artificial intelligence and core archival imperatives
 category: Culture and Heritage
 related_publications: true
-date:
+date: 2021-01-01
 featured: true
 
 bibliography: quantifying.bib

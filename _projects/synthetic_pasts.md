@@ -4,7 +4,7 @@ title: "Synthetic Pasts: The Generative Historicity of Artificial Intelligence"
 description: the roles that history and historicity play in AI-generated text and image production
 category: Culture and Heritage
 related_publications: true
-date:
+date: 2026-01-01
 featured: true
 
 bibliography: syntheticpasts.bib

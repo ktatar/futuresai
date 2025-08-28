@@ -4,7 +4,7 @@ title: "AI, Authenticity, and Archives"
 description: AI to enrich the management and interpretation of cultural heritage collections across Sweden
 category: Culture and Heritage
 related_publications: true
-date:
+date: 2023-01-01
 featured: true
 
 bibliography: quantifying.bib
