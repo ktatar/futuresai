@@ -2,7 +2,7 @@
 layout: distill
 title: Voice AI
 description: This page is a collection of our works on the topic Voice AI.
-category: AI in Music and Sound
+category: Sound and Music Computing
 related_publications: true
 date: 2024-08-30
 featured: true
