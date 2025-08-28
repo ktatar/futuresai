@@ -16,7 +16,6 @@ Quantifying Culture investigates the potential of AI to enrich the management an
 # Project Page
 <https://wasp-hs.org/project/quantifying-culture-a-study-of-ai-and-cultural-heritage-collections/>
 
-
 <div class="publications">
-{% bibliography --file s quantifying.bib %}
+{% bibliography --file quantifying.bib %}
 </div>

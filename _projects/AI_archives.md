@@ -17,5 +17,5 @@ This project addresses the conceptual and practical interface between artificial
 <https://www.uu.se/en/department/alm/research/research-projects/ongoing-projects/artificial-intelligence-as-a-risk-and-opportunity-for-the-authenticity-of-archives>
 
 <div class="publications">
-{% bibliography --file s quantifying.bib %}
+{% bibliography --file quantifying.bib %}
 </div>
