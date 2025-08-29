@@ -17,7 +17,3 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
-<div class="fake-img l-body">
-{% include figure.liquid loading="eager" path="assets/img/people/leaders.jpg" title="Cluster Leaders" %}
-</div>
