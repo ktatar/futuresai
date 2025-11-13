@@ -2,10 +2,10 @@
 layout: page
 title: People
 permalink: /people/
-description: 
+description:
 nav: true
 nav_order: 5
-display_categories: [Leadership]
+display_categories: [Leadership, Postdoc, PhD Student, Affiliated Postdoc, Affiliated PhD Student]
 horizontal: true
 ---
 
