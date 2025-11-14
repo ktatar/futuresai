@@ -4,7 +4,7 @@ title: Hugh Xuechen Liu
 description: Post-doctoral Fellow
 img: assets/img/people/prof_pic_hugh_liu.jpg
 importance: 2
-category: Affiliated Postdoc
+category: Affiliated Post-doctoral Fellows
 date: 2024-01-01
 featured: true
 ---

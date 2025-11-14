@@ -5,7 +5,7 @@ permalink: /people/
 description:
 nav: true
 nav_order: 5
-display_categories: [Leadership, Postdoc, PhD Student, Affiliated Postdoc, Affiliated PhD Student]
+display_categories: [Leadership, Participants, Post-doctoral Fellows, PhD Students, Affiliated Post-doctoral Fellows, Affiliated PhD Students]
 horizontal: true
 ---
 

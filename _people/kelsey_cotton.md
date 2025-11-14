@@ -4,7 +4,7 @@ title: Kelsey Cotton
 description: PhD Student
 img: assets/img/people/prof_pic_kelsey_cotton.jpg
 importance: 1
-category: Affiliated PhD Student
+category: Affiliated PhD Students
 date: 2022-01-01
 featured: true
 
