@@ -2,7 +2,7 @@
 layout: page
 title: "Nordic Fabulation Network"
 description: This network intends to explore how collaborative design via Fabulation can be used to imagine and extend care practices in the Nordic context, encouraging broader forms of participation in society, building stronger connections among citizens, and ultimately fostering more resilient futures
-category: (Uncatgorized)
+category: (Uncategorized)
 related_publications: false
 date: 2023-01-03
 featured: true
