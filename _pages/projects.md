@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: [Culture and Heritage, AI in Arts and Technology, Sound and Music Computing, Human-Machine Interaction, Events, (Uncategorized)]
+display_categories: [Culture and Heritage, AI in Arts and Technology, Sound and Music Computing, Human-Machine Interaction, Events, Uncategorized]
 horizontal: true
 ---
 
