@@ -20,4 +20,4 @@ Pedro Sanches (he/him) is an Assistant Professor at the Department of Informatic
 
 ## Research Page
 
-<https://www.kth.se/profile/holzap>
+<https://www.umu.se/en/staff/pedro-sanches/>
