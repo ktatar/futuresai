@@ -4,7 +4,7 @@ title: Sarah Hedman-Dybeck
 description: PhD Student
 img: assets/img/people/prof_pic_sarah_hedman_dybeck.jpg
 importance: 1
-category: PhD Students
+category: Affiliated PhD Students
 date: 2022-01-01
 featured: true
 
