@@ -16,7 +16,7 @@ featured: true
 
 ## Bio
 
-Ericka Johnson, Professor of gender and society, Linköping University, Sweden.
+**Ericka Johnson**, Professor of gender and society, Linköping University, Sweden.
 
 Johnson is the director of the Swedish national graduate school for the Wallenberg AI, autonomous systems and software program – Humanity and Society.
 
