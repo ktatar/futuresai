@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Kıvanç Tatar
-description: Assistant Professor
+description: Associate Professor
 img: assets/img/people/prof_pic_kivanc_tatar.jpg
 importance: 4
 category: Leadership
