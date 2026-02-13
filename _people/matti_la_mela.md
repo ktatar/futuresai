@@ -21,3 +21,5 @@ Matti La Mela is an Associate Professor (docent) in Digital Humanities at the De
 ## Research Page
 
 <https://www.uu.se/en/contact-and-organisation/staff?query=N20-65>
+
+Uppsala Patent History Group (UPHG) <https://www.uphg.se>
