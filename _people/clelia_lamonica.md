@@ -3,9 +3,9 @@ layout: distill
 title: Clelia LaMonica
 description: Associate Professor
 img: assets/img/people/prof_pic_clelia_lamonica.jpg
-importance: 3
+importance: 1
 category: Participants
-date: 2025-08-01
+date: 2026-01-01
 featured: true
 
 ---

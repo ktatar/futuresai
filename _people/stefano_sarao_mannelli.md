@@ -3,7 +3,7 @@ layout: distill
 title: Stefano Sarao Mannelli
 description: Assistant Professor
 img: assets/img/people/prof_pic_stefano_sarao_mannelli.jpg
-importance: 3
+importance: 1
 category: Participants
 date: 2026-01-01
 featured: true

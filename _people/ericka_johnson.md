@@ -3,7 +3,7 @@ layout: distill
 title: Ericka Johnson
 description: Professor
 img: assets/img/people/prof_pic_ericka_johnson.jpg
-importance: 3
+importance: 1
 category: Participants
 date: 2026-01-01
 featured: true

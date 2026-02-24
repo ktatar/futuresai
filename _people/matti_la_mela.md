@@ -3,9 +3,9 @@ layout: distill
 title: Matti La Mela
 description: Associate Professor
 img: assets/img/people/prof_pic_matti_la_mela.jpg
-importance: 3
+importance: 1
 category: Participants
-date: 2025-08-01
+date: 2026-01-01
 featured: true
 
 ---

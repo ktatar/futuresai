@@ -3,7 +3,7 @@ layout: distill
 title: Amanda Wasielewski
 description: Associate Professor
 img: assets/img/people/prof_pic_amanda_wasielewski.jpg
-importance: 3
+importance: 1
 category: Participants
 date: 2026-01-01
 featured: true
